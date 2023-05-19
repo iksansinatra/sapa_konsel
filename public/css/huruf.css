@@ -1,0 +1,144 @@
+.judul_login{
+    margin-top: 2px; 
+    padding-left: 88px; 
+    padding-right: 88px; 
+    font-size: 15px; 
+    color: white;
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+.use_login{
+    margin-top: 20px; 
+    text-align: center;
+    font-size: 15px; 
+    color: #9D9D9D;
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+.h_sidebar_menu{
+    color: #808080;
+    font-size: 13px;
+    font-weight: 550;
+
+    /* font-family: 'Roboto Condensed', sans-serif; */
+}
+
+.h_sidebar_sub_menu{
+    color: #a0a0a0;
+    font-size: 13px;
+    font-weight: 550;
+
+    /* font-family: 'Roboto Condensed', sans-serif; */
+}
+
+.h_input_login{
+    color: #959595;
+    font-size: 12px;
+
+}
+
+.h_ket_login{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.clear_underline{
+    text-decoration:none !important
+}
+
+
+
+
+.h_tengah{
+        vertical-align: middle;
+        align-items:center;
+        justify-content:center;
+}
+
+
+
+.h_namaAPP {
+    color: #55B1B3;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.h_namaAPP1 {
+    color: #55B1B3;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.h_namaAPP2 {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.h_titleApp{
+    color: #A1A1A1;
+    font-weight: bold;
+    font-size: 10px;
+
+}
+
+.h_titleBottomBar{
+    color: #A1A1A1;
+    font-weight: bold;
+    font-size: 10px;
+
+}
+
+.h_back{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 15px;
+}
+.h_judulList{
+    color: #DEC480;
+    font-size: 16px;
+    font-weight: 600;
+}
+.h_judulListdkp{
+    color: #DEC480;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.h_judulStatistik{
+    color: #DEC480;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.h_uraian{
+    font-size: 12px;
+    color: #BBBBBB;
+    font-weight: bold;
+}
+
+.h_value{
+    color: #55B1B3;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.h_labelInput{
+    font-size: 12px;
+    color: #BBBBBB;
+    font-weight: bold;
+}
+
+.btnLampiranHuruf{
+    background-color:#ffffff !important; 
+    color:#BBBBBB !important; 
+    font-weight:bold  !important; 
+}

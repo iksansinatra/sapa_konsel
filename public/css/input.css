@@ -1,0 +1,128 @@
+.inputbs[type=text], select {
+    width: 100%;
+    padding: 9.5px 12px;
+    margin-top: -2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px !important;
+    box-sizing: border-box;
+    height: 50px !important;
+  }
+
+  .inputbs[type=email], select {
+    width: 100%;
+    padding: 9.5px 12px;
+    margin-top: -2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px !important;
+    box-sizing: border-box;
+    height: 50px !important;
+  }
+
+.inputbs[type=number], select {
+    width: 100%;
+    padding: 9.5px 12px;
+    margin: -2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 11px !important;
+    box-sizing: border-box;
+    height: 41px !important;
+  }
+.inputbs[type=textarea], select {
+    width: 100%;
+    padding: 9.5px 12px;
+    margin: -2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 11px !important;
+    box-sizing: border-box;
+    height: 60px !important;
+  }
+
+
+  .inputbs[type=file], select {
+    width: 100%;
+    padding: 9.5px 12px;
+    margin: -2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 11px !important;
+    box-sizing: border-box;
+    height: 41px !important;
+  }
+
+
+  .inputbs[type=password], select {
+    width: 100%;
+    padding: 9.5px 12px;
+    margin: -2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 11px !important;
+    box-sizing: border-box;
+    height: 50px;
+  }
+
+  .inputbs[type=date] {
+    width: 100%;
+    padding: 7.5px 12px;
+    margin: 0px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 11px !important;
+    box-sizing: border-box;
+    height: 41px;
+  }
+
+  .inputbs[type=number], select {
+    width: 100%;
+    padding: 9.5px 12px;
+    margin: -2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 11px !important;
+    box-sizing: border-box;
+    height: 41px;
+  }
+
+  .inputbs[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px !important;
+    cursor: pointer;
+  }
+
+  .inputdelete[type=textarea], select {
+    width: 100%;
+    padding: 9.5px 12px;
+    margin: -2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 11px !important;
+    box-sizing: border-box;
+    /* height: 250px !important; */
+  }
+  
+  .inputbs[type=submit]:hover {
+    background-color: #45a049;
+  }
+
+  .inputbs:hover {
+    border: 1px solid #5a5a5a;
+  }
+
+  option{ 
+    height:200px !important;
+  }
+  
+
+
+  .inputfilter {
+    /* border-radius: 0px !important; */
+  }
